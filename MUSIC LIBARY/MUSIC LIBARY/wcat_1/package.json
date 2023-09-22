@@ -6,7 +6,9 @@
   "dependencies": {
     "fs": "^0.0.1-security"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
   "bin": {
     "wcat": "script.js"
   },
